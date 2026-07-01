@@ -2,7 +2,7 @@
 #let H = auto-heading;
 \-\-\-
 
-name: tsinswreng-structure-design
+name: tsinswreng-design-before-coding
 
 description: 在需求分析之後 編碼實現之前 閱讀此skill
 
